@@ -59,7 +59,7 @@ class JavaHookV3{
         String madeby = "Have a great day~<3";
         String imigurl = "";
         String imageurlbulshit = "";
-        String tokenWebhook = "https://ptb.discord.com/api/webhooks/1021607797718269972/cU-YGfvvFCz2onJBmQXGvYBe5rCHp_sbUCiMX_gW0N11rsveUjmkwwZ6LrKGEGErJsP6";//"https://discord.com/api/webhooks/1021607797718269972/cU-YGfvvFCz2onJBmQXGvYBe5rCHp_sbUCiMX_gW0N11rsveUjmkwwZ6LrKGEGErJsP6";//webhooker.nextLine();
+        String tokenWebhook = "InsertWebhookHere";
         String message = bruh;//msg.nextLine();       
         String nobo = "Built in Java";//title.nextLine();
         String ImageEmbedO = "https://media.discordapp.net/attachments/815474046003183617/1015771515901444106/cat-what.gif";//ImageEmbed.nextLine();
